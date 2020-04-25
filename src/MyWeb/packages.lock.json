@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "dependencies": {
+    ".NETCoreApp,Version=v5.0": {
+      "wk.AlfrescoClient": {
+        "type": "Direct",
+        "requested": "[*-*, )",
+        "resolved": "0.1.3",
+        "contentHash": "wkCr9a1BxUQuhynAq6hqv1yPE1Rw+aIoNTG7aB+sn0vkn5kCiLhyXXF/6bIiQBQrSfK+qpl56YCAY5NUmKTEuA==",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "System.ComponentModel.Annotations": "4.7.0"
+        }
+      },
+      "Newtonsoft.Json": {
+        "type": "Transitive",
+        "resolved": "12.0.3",
+        "contentHash": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg=="
+      },
+      "System.ComponentModel.Annotations": {
+        "type": "Transitive",
+        "resolved": "4.7.0",
+        "contentHash": "0YFqjhp/mYkDGpU0Ye1GjE53HMp9UVfGN7seGpAMttAC0C40v5gw598jCgpbBLMmCo0E5YRLBv5Z2doypO49ZQ=="
+      }
+    }
+  }
+}
